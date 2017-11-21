@@ -1,0 +1,5 @@
+1,Texas A&M
+2,Texas State
+3,Duke
+4,Oxford
+5,Texas
